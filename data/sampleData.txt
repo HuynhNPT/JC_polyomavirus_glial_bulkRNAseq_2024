@@ -1,0 +1,10 @@
+	condition	batch
+1	CTR	A
+2	JC4	A
+3	JC14	A
+4	CTR	B
+5	JC4	B
+6	JC14	B
+7	CTR	C
+8	JC4	C
+9	JC14	C

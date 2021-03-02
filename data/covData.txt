@@ -1,0 +1,3 @@
+covariate	take_nottake	covariate_type
+condition	1	1
+batch	1	1
